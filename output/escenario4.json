@@ -1,0 +1,15 @@
+{
+  "escenario": "Usuario exigente",
+  "turnos": [
+    {
+      "rol": "groq",
+      "mensaje": "¡Claro! Estoy listo para interactuar con el chatbot. Puedes empezar a responder preguntas o proporcionando información, y yo puedo corregir cualquier error o proporcionar más detalles acerca de la respuesta. \n\n¿Qué tema te gustaría que el chatbot cubra?"
+    },
+    {
+      "rol": "dialogpt",
+      "mensaje": "ERROR_API"
+    }
+  ],
+  "veredicto": "FAIL",
+  "analisis": "Error en API de DialoGPT"
+}

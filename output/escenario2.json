@@ -1,0 +1,15 @@
+{
+  "escenario": "Cambio de tema",
+  "turnos": [
+    {
+      "rol": "groq",
+      "mensaje": "¡Hace un clima perfecto para estar afuera! La temperatura es suave y hay un poquín de sol. Me encanta esta época del año cuando puedo disfrutar del aire fresco y tomar un paseo por el parque sin sentirme demasiado calenturiento.\n\nPero ahora que menciono la palabra \"paseo\", me vino a la mente la comida que me gustaría comer después de hacer ejercicio. ¿Sabes qué es lo que me encanta para una merienda después de un paseo por el parque? Un sandwich de carne asada y queso con una deliciosa ensalada de lechuga y tomate fresco. Me hace mucho bien después de una caminata.\n\nY hablando de comida, he estado pensando en probar algo nuevo. ¿Has probado nunca la sopa de calabaza y champiñones? Es una delicia. Me encanta la combinación de los sabores dulces y earthy de la calabaza y los champiñones. Me parece que sería perfecto para una cena en casa.\n\n¿Te gustaría conocerte algunas recetas más?"
+    },
+    {
+      "rol": "dialogpt",
+      "mensaje": "ERROR_API"
+    }
+  ],
+  "veredicto": "FAIL",
+  "analisis": "Error en API de DialoGPT"
+}

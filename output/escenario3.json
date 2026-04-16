@@ -1,0 +1,15 @@
+{
+  "escenario": "Usuario confuso",
+  "turnos": [
+    {
+      "rol": "groq",
+      "mensaje": "¡Hola! Estoy aquí para ayudarte. ¿En qué puedo ayudarte hoy? Recuerda que puedo tener dificultades con preguntas muy largas o confusas, así que intenta ser lo más claro posible. Vamos a empezar. ¿Qué pasa?"
+    },
+    {
+      "rol": "dialogpt",
+      "mensaje": "ERROR_API"
+    }
+  ],
+  "veredicto": "FAIL",
+  "analisis": "Error en API de DialoGPT"
+}
