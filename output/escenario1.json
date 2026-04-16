@@ -1,0 +1,15 @@
+{
+  "escenario": "Consulta simple",
+  "turnos": [
+    {
+      "rol": "groq",
+      "mensaje": "Hola, ¿cómo estás? Me alegra estar conectado contigo hoy. \n\nTengo una pregunta: ¿sabes si es posible viajar a la luna en un momento dado del futuro cercano?"
+    },
+    {
+      "rol": "dialogpt",
+      "mensaje": "ERROR_API"
+    }
+  ],
+  "veredicto": "FAIL",
+  "analisis": "Error en API de DialoGPT"
+}
